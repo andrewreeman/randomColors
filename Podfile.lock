@@ -1,0 +1,18 @@
+PODS:
+  - CPCommon (1.5.2):
+    - SVProgressHUD
+    - SwiftyBeaver
+  - SVProgressHUD (2.1.2)
+  - SwiftyBeaver (1.3.0)
+
+DEPENDENCIES:
+  - CPCommon
+
+SPEC CHECKSUMS:
+  CPCommon: 4bf1004eb463ba28886bd1c4e32e1e52a15530b0
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftyBeaver: d4b551ba34b4206c52cc4684ae90444b8aaa5afd
+
+PODFILE CHECKSUM: b8c5072695b8fea086084e2864cb7b40855258a6
+
+COCOAPODS: 1.2.1
